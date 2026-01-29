@@ -42,3 +42,4 @@ npm install
 Set GEMINI_API_KEY in.env.local
 Run the app:
 npm run dev
+Screenshot_2026-01-29-16-44-06-88_40deb401b9ffe8e1df2f1cc5ba480b12.jpg
